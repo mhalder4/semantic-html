@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Creates the blue background at the top. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ body {
     color: #ffffff;
 }
 
+/* Sets position and size of 'Horiseon' */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Makes 'seo' a different color in the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Places the words and links in the top right of the header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +36,29 @@ body {
     font-size: 20px;
 }
 
+/* Sets the list to have no bullets */
 .header div ul {
     list-style-type: none;
 }
 
+/* Sets the list items to respect margins and be inline with each other */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Sets color of anchor text to white and no underline */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets font-size of paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Sets background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +68,26 @@ p {
     background-position: center;
 }
 
+/* Sets image placement to left of content */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets image placement to right of content */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets the placement and size of content backgroound boxes*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets position, size, font type, and color of benefits sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +99,63 @@ p {
     background-color: #2589bd;
 }
 
+/* Sets color and margins on text in one portion of benefits sidebar */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+ /* Redundant */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Redundant */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets one benefit's header margins and alignment */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Redundant */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Redundant */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Sets one benefit's image positioning and size */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Redundant */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Redundant */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets size and position of content background boxes as well as font color and style */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+/* Redundant */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +175,7 @@ p {
     color: #ffffff;
 }
 
+/* Redundant */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,33 +185,40 @@ p {
     color: #ffffff;
 }
 
+/* Sets size of content image */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Redundant */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* Redundant */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Sets margins and size of content heading */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Redundant */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Redundant */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets margins, positioning, text alignment, and font style for the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +226,7 @@ p {
     text-align: center;
 }
 
+/* Sets footer header font size */
 .footer h2 {
     font-size: 20px;
 }
