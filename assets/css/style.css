@@ -28,7 +28,7 @@ body {
 }
 
 /* Places the words and links in the top right of the header */
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ body {
 }
 
 /* Sets the list to have no bullets */
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* Sets the list items to respect margins and be inline with each other */
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -80,15 +80,15 @@ p {
     margin-left: 25px;
 }
 
-/* Sets the placement and size of content backgroound boxes*/
-.content {
+/* Sets the placement and size of content background boxes*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* Sets position, size, font type, and color of benefits sidebar */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -201,25 +201,25 @@ p {
 }
 
 /* Sets margins and size of content heading */
-.search-engine-optimization h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* Redundant */
-.online-reputation-management h2 {
+/* .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 /* Redundant */
-.social-media-marketing h2 {
+/* .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 /* Sets margins, positioning, text alignment, and font style for the footer */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -227,6 +227,6 @@ p {
 }
 
 /* Sets footer header font size */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
