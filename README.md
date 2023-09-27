@@ -6,19 +6,13 @@ This project's goal was to help a hypothetical company refactor their website to
 
 ## Installation
 
-The pertinent files for the project, including this README can all be found in the Github repository located at: . The website can be found at the Github pages address that follows: 
+The pertinent files for the project, including this README can all be found in the Github repository located at: https://github.com/mhalder4/website-refactor-challenge. The website can be found at the Github pages address that follows: https://mhalder4.github.io/website-refactor-challenge/.
 
 ## Usage
 
 The website has a navigation bar in the upper right hand corner with three options that link to information further down in the page. A screenshot of the website is shown below.
+    ![A screenshot of the completed webpage.](./assets/images/website_refactor_challenge_screenshot.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
