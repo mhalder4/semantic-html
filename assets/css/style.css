@@ -105,35 +105,11 @@ aside section {
     color: #ffffff;
 }
 
-/* Redundant */
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
-/* Redundant */
-/* .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 /* Sets one benefit's header margins and alignment */
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* Redundant */
-/* .benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
-/* Redundant */
-/* .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 /* Sets one benefit's image positioning and size */
 aside img {
@@ -141,20 +117,6 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* Redundant */
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
-/* Redundant */
-/* .benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 /* Sets size and position of content background boxes as well as font color and style */
 main section {
@@ -166,58 +128,16 @@ main section {
     color: #ffffff;
 }
 
-/* Redundant */
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-/* Redundant */
-/* .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
 /* Sets size of content image */
 main img {
     max-height: 200px;
 }
-
-/* Redundant */
-/* .online-reputation-management img {
-    max-height: 200px;
-} */
-
-/* Redundant */
-/* .social-media-marketing img {
-    max-height: 200px;
-} */
 
 /* Sets margins and size of content heading */
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* Redundant */
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
-
-/* Redundant */
-/* .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 /* Sets margins, positioning, text alignment, and font style for the footer */
 footer {
